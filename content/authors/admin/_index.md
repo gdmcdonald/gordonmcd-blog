@@ -22,8 +22,8 @@ bio: My research interests include data science for public good, quantum physics
 
 interests:
 - Data Science
-- Computational Linguistics
-- Information Retrieval
+- Teaching
+- Physics
 
 education:
   courses:
