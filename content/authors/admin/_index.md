@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Gordon McDonald
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Science Group Lead
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Sydney
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data science for public good, quantum physics and psychology.
 
 interests:
-- Artificial Intelligence
+- Data Science
 - Computational Linguistics
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in physics building quantum sensors
+    institution: Australian National University
+    year: 2015
+  - course: Honours with university medal in physics
+    institution: Australian National University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Bachelor's in physics, chemistry and math
+    institution: Australian National University
     year: 2008
 
 # Social/Academic Networking
@@ -47,13 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/DrGordonMcD
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=VA4bLa4AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gdmcdonald
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gordon McDonald is a data science group lead at the [Sydney Informatics Hub](https://sydney.edu.au/sydney-informatics-hub), which is part of the University of Sydney. We consult in data science, visualisation and machine learning projects for academic researchers in all disciplines. Sometimes we work with external collaborators like government departments, hospitals and the police. Some days I'm [mapping fish behaviour in a tank 🐟](eprints.whiterose.ac.uk/145571/3/rspb.2019.0448.pdf) or [global mine waste 🌏⛏](https://graphics.reuters.com/MINING-TAILINGS1/0100B4S72K1/index.html), other days I'm automating [high pressure liquid chromatography mass spectroscopy 💉](https://metabolomics-analysis.sydney.edu.au/) to detect metabolites more efficiently, and some time in between I'm looking at [hospital](https://dhin.net.au/project-update-speed-extract/) [patient](https://www.mdpi.com/1660-4601/16/8/1326/pdf) [data](https://adc.bmj.com/content/104/12/1150.abstract) 🏥 to get them better outcomes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I completed my PhD in Physics with the [Atom Laser and Quantum Sensors group](http://atomlaser.anu.edu.au/) at the Australian National University. I used Bose-Einstein condensates to [build](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.013002) [new](https://arxiv.org/abs/1311.2143) [designs](https://iopscience.iop.org/article/10.1088/1367-2630/16/7/073035) of [sensors](https://arxiv.org/abs/1307.0268) known as [atom interferometers](https://openresearch-repository.anu.edu.au/bitstream/1885/152398/2/01_Hardman_Simultaneous_Precision_2016.pdf). These can be used to measure gravity (to find mineral and water 🌊 deposits, gravity waves 🌠), inertial accelerations (guidance systems 🛰, geology), magnetic 🧲 and electric fields ⚡️, and fundamental physical constants (fine structure, big G ⏱ ). One day they will be inside all sorts of technology in everyday life.
