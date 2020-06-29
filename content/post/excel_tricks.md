@@ -13,7 +13,7 @@ Summary: Some excel formulas to make things that should be easy less impossible
 If you're used to programming in R or Python and suddenly have to do everything in Excel due to client requirements or something, you may repeatedly find yourself wondering "How do I do this thing I always do? Shouldn't it be easy?". Well the answer likely is no, it isn't as easy as it should be, but yes, there is a way. Here's a few of them that I couldn't google for that easily. 
 
 {{% alert note %}}
-Some of the cell array formulas only work in Office365 - for older versions of Excel you'll have to do some shift-enter faffing around to make the cell array formulas work.
+Some of the cell array formulas only work in Office365 - for older versions of Excel you'll have to do some ctrl-shift-enter faffing around to make the cell array formulas work.
 {{% /alert %}}
 
 # Checking a cell for the presence of one of multiple partial text string matches
