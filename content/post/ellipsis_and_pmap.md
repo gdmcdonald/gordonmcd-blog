@@ -81,3 +81,7 @@ pmap_dbl(.l = df, .f = eval_expres)
 ```
 ## [1]  6.000000 36.000000  1.732051
 ```
+
+Cool! 
+
+If you want to learn more about `pmap()`, check here: [https://adv-r.hadley.nz/functionals.html#pmap](https://adv-r.hadley.nz/functionals.html#pmap)
