@@ -6,7 +6,7 @@ header:
   caption: "So so long"
 image_preview: "excel_tricks/thumbnail.png"
 Category: Excel
-Tags: Excel,spreadsheets,formula
+Tags: ['Excel','Spreadsheets','formula']
 Summary: Some excel formulas to make things that should be easy less impossible
 ---
 
