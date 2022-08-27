@@ -219,7 +219,7 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 1
+  engine = 0 # disable comments here - use utterances/github issues instead.
 
   # Which page types are commentable?
   commentable = {page = false, post = true, docs = true, project = true, publication = true, talk = true}
