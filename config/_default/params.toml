@@ -237,7 +237,10 @@ plugins_js  = []
     
   # Configuration of Utterances
   [comments.utterances]
-   repo = "gdmcdonald/gordonmcd-blog"
+    repo="gdmcdonald/gordonmcd-blog"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
 
 ############################
 ## Search
