@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Science Group Lead
+role: Informatics Team Lead
 
 # Organizations/Affiliations
 organizations:
@@ -22,6 +22,7 @@ bio: My research interests include data science for public good, quantum physics
 
 interests:
 - Data Science
+- Artificial Intelligence
 - Teaching
 - Physics
 
